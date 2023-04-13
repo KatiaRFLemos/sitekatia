@@ -5,3 +5,11 @@ background-color: #fc9bcb;
 
 
 }
+
+.cabecalho__imagem {
+
+    width: 130px;
+    height: 160px;
+    border-radius:  100px;
+    
+}
