@@ -13,3 +13,16 @@ background-color: #fc9bcb;
     border-radius:  100px;
     
 }
+.cabecalho__menu{
+    display: inline;
+
+}
+
+.cabecalho__menu-item{
+
+    display: inline;
+}
+.cabecalho__titulo{
+
+    display: inline;
+}
